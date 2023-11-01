@@ -28,7 +28,7 @@ Efficient data management and storage
     iii) MySQL database (for the provided example)
   Installation:
       i) Clone the repository:
-            git clone https://github.com/your-username/your-repository.git
+            git clone https://github.com/keerthanaj12/Datawarehouse_with_IBM.git
     ii)  Install the required dependencies:
             pip install ibm_db
             pip install pandas
